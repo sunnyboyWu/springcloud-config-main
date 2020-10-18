@@ -1,7 +1,7 @@
 
 config:
   info: branch:master,config-dev.yml,from remote config center,...github
-  version： 3
+  version: 3
 
 spring:
   application:
