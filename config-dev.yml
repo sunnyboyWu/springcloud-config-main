@@ -1,7 +1,10 @@
+
+config:
+  info: branch:master,config-dev.yml,from remote config center,...github
+
 spring:
   application:
     name: config-dev.yml
     
     
-config:
-  info: branch:master,config-dev.yml,from remote config center,...github 
+ 
