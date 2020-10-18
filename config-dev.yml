@@ -3,5 +3,5 @@ spring:
     name: config-dev.yml
     
     
-confg:
+config:
   info: branch:master,config-dev.yml,from remote config center,...github 
