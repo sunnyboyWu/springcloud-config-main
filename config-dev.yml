@@ -1,7 +1,7 @@
 
 config:
   info: branch:master,config-dev.yml,from remote config center,...github
-  version: 33
+  version: 44
 
 spring:
   application:
