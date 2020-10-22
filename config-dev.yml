@@ -1,7 +1,7 @@
 
 config:
   info: branch:master,config-dev.yml,from remote config center,...github
-  version: 789789
+  version: 123456789
 
 spring:
   application:
